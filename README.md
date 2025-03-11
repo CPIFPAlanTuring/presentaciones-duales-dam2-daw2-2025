@@ -51,7 +51,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 * 10.30h [Ávila Rosas, Miguel Ángel](https://github.com/MiguelAngelAvilaRosas1DAW)
 * 10.30h [Barnestein Martos, Alejandro](https://github.com/alexbm23)
-* 10.30h [Leiva García, Álvaro](https://github.com/)
+* 10.30h [Leiva García, Álvaro](https://github.com/Hisui02)
 
 <br/>
 
