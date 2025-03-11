@@ -55,7 +55,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <br/>
 
-Enlace presentación: https://view.genially.com/664b8191fd9c1200149a95d9/interactive-content-presentacion-dual-conjunta
+Enlace repositorio: https://github.com/CompiTrabajo2DAW/PresentacionDUAL
 
 <br/>
 
