@@ -50,7 +50,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <img height="28px" src="imagenes/ADA.png">
 
 * 10.30h [Ávila Rosas, Miguel Ángel](https://github.com/MiguelAngelAvilaRosas1DAW)
-* 10.30h[Barnestein Martos, Alejandro](https://github.com/alexbm23)
+* 10.30h [Barnestein Martos, Alejandro](https://github.com/alexbm23)
 * 10.30h [Leiva García, Álvaro](https://github.com/)
 
 <br/>
