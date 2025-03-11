@@ -52,7 +52,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 10.30h [Ávila Rosas, Miguel Ángel](https://github.com/)
 * 10.30h[Barnestein Martos, Alejandro](https://github.com/)
 * 10.30h [Leiva García, Álvaro](https://github.com/)
-
+Enlace presentación: https://view.genially.com/664b8191fd9c1200149a95d9/interactive-content-presentacion-dual-conjunta
 
 <br/>
 
