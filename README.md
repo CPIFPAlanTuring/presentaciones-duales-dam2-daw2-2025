@@ -86,7 +86,7 @@ Enlace repositorio: https://github.com/CompiTrabajo2DAW/PresentacionDUAL
 
 <img height="36px" src="imagenes/aliqindoi.png">
 
-* 13.10h [Solera Romero, David]([https://github.com/](https://github.com/DavidSoleraRomero/presentacion-dual-2dam))
+* 13.10h [Solera Romero, David](https://github.com/DavidSoleraRomero/presentacion-dual-2dam)
 
 <br/>
 
