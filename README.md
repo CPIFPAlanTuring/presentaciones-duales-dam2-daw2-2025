@@ -56,20 +56,14 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <br/>
 
-<img height="28px" src="imagenes/properly.png">
-
-
-* 11.00h [Cabello Rueda, Francisco Javier](https://github.com/)
-
-<br/>
 
 <img height="28px" src="imagenes/viewnext.png">
 
-* 11.50h [Alarcón Fortes, Manuel](https://github.com/)
-* 11.50h [Chacón Macías, Juan Francisco](https://github.com/)
-* 11.50h [López Guerrero, Álvaro](https://github.com/)
-* 11.50h [Avella Pérez, Samuel ](https://github.com/)
-* 11.50h [Lázaro Zambrano, Ignacio](https://github.com/)
+* 11.00h [Alarcón Fortes, Manuel](https://github.com/)
+* 11.00h [Chacón Macías, Juan Francisco](https://github.com/)
+* 11.00h [López Guerrero, Álvaro](https://github.com/)
+* 11.00h [Avella Pérez, Samuel ](https://github.com/)
+* 11.00h [Lázaro Zambrano, Ignacio](https://github.com/)
 
 <br/>
  
