@@ -80,7 +80,7 @@ Enlace repositorio: https://github.com/CompiTrabajo2DAW/PresentacionDUAL
 
 <img height="36px" src="imagenes/pwc.png">
 
-* 12.50h [Gallego Ríos, Boris](https://github.com/)
+* 12.50h [Gallego Ríos, Boris]([https://github.com/](https://github.com/Boris027/presentacion-dual-2))
 
 <br/>
 
