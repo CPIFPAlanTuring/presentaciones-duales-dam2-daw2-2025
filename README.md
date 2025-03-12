@@ -66,7 +66,7 @@ Enlace repositorio: https://github.com/CompiTrabajo2DAW/PresentacionDUAL
 * 11.00h [Chacón Macías, Juan Francisco](https://github.com/)
 * 11.00h [López Guerrero, Álvaro](https://github.com/)
 * 11.00h [Avella Pérez, Samuel ](https://github.com/)
-* 11.00h [Lázaro Zambrano, Ignacio](https://github.com/) <a href="https://github.com/IgnacioLazZam/DUAL_2025">Enlace repositorio</a>
+* 11.00h [Lázaro Zambrano, Ignacio](https://github.com/IgnacioLazZam/DUAL_2025)
 
 <br/>
  
