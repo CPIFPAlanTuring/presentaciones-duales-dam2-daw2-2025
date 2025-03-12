@@ -72,7 +72,7 @@ Enlace repositorio: https://github.com/CompiTrabajo2DAW/PresentacionDUAL
  
 <img height="28px" src="imagenes/UMA.jpeg">
 
-* 12.30h [Atencia Barranco, Paula](https://github.com/)
+* 12.30h [Atencia Barranco, Paula](https://github.com/PaulaAtencia/Dual.git)
 
 
 
