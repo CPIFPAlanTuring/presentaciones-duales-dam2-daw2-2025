@@ -62,7 +62,7 @@ Enlace repositorio: https://github.com/CompiTrabajo2DAW/PresentacionDUAL
 
 <img height="28px" src="imagenes/viewnext.png">
 
-* 11.00h [Alarcón Fortes, Manuel](https://github.com/)
+* 11.00h [Alarcón Fortes, Manuel](https://github.com/ManAlarFor/PresentacionDual2025)
 * 11.00h [Chacón Macías, Juan Francisco](https://github.com/)
 * 11.00h [López Guerrero, Álvaro](https://github.com/Alvalogue72/Formacion-Profesional-Dual)
 * 11.00h [Avella Pérez, Samuel ](https://github.com/)
