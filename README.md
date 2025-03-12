@@ -42,7 +42,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <img height="36px" src="imagenes/accenture.svg">
 
 * 10.00h [Lázaro Zambrano, Gonzalo](https://github.com/)
-* 10.00h[Ramos Alarcón, Sergio Romero](https://github.com/)
+* 10.00h[Ramos Alarcón, Sergio Romero]([https://github.com/](https://github.com/Kazuma275/Accenture)
 * 10.00h [Leiva López, Eloy](https://github.com/eleilop/presentacion-dual-2dam)
 
 <br/>
